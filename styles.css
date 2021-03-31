@@ -143,5 +143,8 @@ h1{
 p s h2 div{
     font-style:inherit;
 }
+.link-primary{
+    margin:auto;
+}
 
 
