@@ -13,6 +13,7 @@ sans-serif;
 margin:auto;
 margin:0px;
 font-weight:800;
+padding-bottom: 4rem;
 }
     
     /* body{ */
@@ -111,6 +112,7 @@ Padding:2rem;
 }
 h1{
     text-align: center;
+    
 }
 .ow{
     background-color: var(--off-white);
@@ -125,7 +127,7 @@ h1{
 /* footer */
 .footer{
     background-color:var(--primary-color);
-    padding:2rem 1rem;
+    padding:3rem 3rem;
     text-align:center;
     color:white;
     border-top-right-radius:1rem;
@@ -145,6 +147,7 @@ p s h2 div{
 }
 .link-primary{
     margin:auto;
+    text-align: centers;
 }
 
 
